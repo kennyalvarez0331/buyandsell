@@ -1,6 +1,6 @@
 # Buyandsell
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4. This is a full stack website with using Angular for the front-end and Node.js and mySQL as the back-end.This website shows lists of object and their descriptions and it allows you to create your own custom listing and accounts, this is saved and stored on a database and can be updated when creating and delete objects in your listing.
 
 ## Development server
 
